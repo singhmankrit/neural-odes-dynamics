@@ -1,0 +1,10 @@
+numpy==1.21.1
+pandas
+matplotlib
+torch
+torchdiffeq
+pysindy==1.7.3
+pytorch-lightning>=1.4
+rich
+tqdm
+scipy
